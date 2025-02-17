@@ -39,3 +39,5 @@ composer.lock
 public_html/deploy/config.php
 public_html/deploy/*.txt
 laravel/app/View/Components/vendor/
+laravel/resources/views/vendor
+laravel/resources/lang/vendor/
